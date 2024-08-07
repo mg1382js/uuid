@@ -1,0 +1,14 @@
+{
+  "name": "@mahdi.golzar/uuid",
+  "version": "1.0.0",
+  "description": "uuid create random id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uuid"
+  ],
+  "author": "mahdi.golzar",
+  "license": "ISC"
+}
